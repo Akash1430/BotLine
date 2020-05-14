@@ -71,12 +71,12 @@ public class EchoApplication {
     static final String CLIENTID     = "3MVG9mIli7ewofGvDL7SHxI25zTKnJ.bGQw.FdgZHK0GYD4h4nYFUsVtXMFBTYQvCwRi2zzJMnBDJ.XAVBCj4";
     static final String CLIENTSECRET = "2949080712338965300";*/
 	
-	static final String USERNAME     = "saahir@intnet.mu.mytrailhead";
-    static final String PASSWORD     = "ShahTrailhead_0068JiYLAVj0rR0l5umJ9qks3UM";
+	static final String USERNAME     = "pawan@icbworks.com.dev";
+    static final String PASSWORD     = "ANAvi301414Pq6DqIAFEhlwZyJ2ptEllFF5";
     static final String LOGINURL     = "https://login.salesforce.com";
     static final String GRANTSERVICE = "/services/oauth2/token?grant_type=password";
-    static final String CLIENTID     = "3MVG9fTLmJ60pJ5LGPsq1bC62J9xkMwmkWqhBCllwqD7oLpqFThCbmvShnkWqMp6ZYB6HBp.gRjuKiQWeRhPr";
-    static final String CLIENTSECRET = "3160755402294534733";
+    static final String CLIENTID     = "3MVG9tzQRhEbH_K3IUveppUwV9Prgam_9G_vGCIRC2qv9s.VCaL_hbp3YKi40ra9f0iecl_oATFIqkQWbAYsz";
+    static final String CLIENTSECRET = "B3DE286F206E6C2D8590857733717E4BC2821AE4F59544A37391B1BF6D18C79C";
 	
     private static String REST_ENDPOINT = "/services/data" ;
     private static String API_VERSION = "/v43.0" ;
