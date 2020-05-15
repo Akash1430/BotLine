@@ -137,11 +137,12 @@ public class EchoApplication {
 		String botReplyMessage = "Command not recognized !\nHere are a list of keywords : \n";
 		Map<String, String> mapA = new HashMap<>();
 		mapA.put("Hello", "Hello, How can i help you ?");
-		mapA.put("Fever", "Pren 2 panadol al dormi.");
-		mapA.put("Headache", "Met de l'huile dans latet.");
-		mapA.put("Medical3", "The medical 3 test");
-		mapA.put("Medical4", "The medical 4 test");
-		mapA.put("Medical5", "The medical 5 test");
+		mapA.put("Pawan", "Yes, How can i help you ?");
+		mapA.put("Here", "Yes i`m here");
+		mapA.put("Avinash", "Yes I`m Avi");
+		mapA.put("Jamaal", "Yes I`m Ja");
+		mapA.put("love", "Love you to");
+		mapA.put("sad", "Don`t be, enjoy the max");
 		mapA.put("Medical6", "The medical 6 test");
 		mapA.put("Thank you", "Your welcome");
 		mapA.put("END", "---Session End---");
